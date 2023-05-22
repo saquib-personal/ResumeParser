@@ -1,0 +1,35 @@
+Saquib Khan
+
+Education:
+Univeristy of Mumbai, 2006-2010, Bachelor of Engineering
+University of Dallas, 2013-2016, Master of Science
+
+Work Experience:
+
+Atimi Software, 2022-2023
+Responsibilities:
+Worked as a contractor for an Agile team within Audible.
+Worked as Full Stack developer working on fixing issues with various aspects of the User
+Library and User Reviews modules.
+Became familiar and comfortable with a variety of proprietary front-end tools/frameworks
+used at Amazon.
+Worked with Amazon Code Pipelines to build and deploy code.
+Worked on improving the health of code pipelines by improving Integration Test coverage
+at different stages of the pipelines using the internal services and tools owned by Amazon.
+Gained an understanding of how services/responsibilities are distributed across Audible’s
+microservices-based architecture.
+Worked with the team to get changes through the code pipelines via code reviews and
+change management tools.
+
+National Center for Atmospheric Research (NCAR), 2017-2022
+Responsibilities:
+Worked as a part of an Agile/Scrum team to maintain a web application that served as a
+repository of climate data.
+Participated in code reviews to ensure high standards of code quality.
+Worked on two tech stacks - Java/Spring/Hibernate/Solr/Postgres and
+Python/Jinja/Flask/Solr/Postgres.
+The Python web application ingested xml metadata uploaded by various laboratories at
+NCAR using Git WAFs. During that time, the application became increasingly expensive
+to modify. The throughput dropped as more data was added to the application.
+Conferred with the Technical Lead and worked with the interns and other engineers to
+replace the Python monolith with a set of microservices.
